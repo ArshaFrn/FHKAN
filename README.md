@@ -8,16 +8,16 @@ FHKAN provides a globally defined, bounded, and differentiable basis on the real
 
 Clone the repository:
 
-
-git clone https://github.com/YOUR_USERNAME/FHKAN.git
+```bash
+git clone https://github.com/ArshaFrn/FHKAN.git
 cd FHKAN
-
+```
 
 Install the required dependencies:
 
-
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Trainable Fractional Hermite Basis
 
@@ -41,7 +41,7 @@ If you find a bug, have a feature request, or would like to improve the implemen
 
 If you use FHKAN in your research, please cite our paper:
 
-
+```bibtex
 @article{sadr2026fhkan,
     title   = {FHKAN: Fractional Hermite Kolmogorov-Arnold Networks
                for Data-Driven and Physics-Informed Learning},
@@ -50,3 +50,4 @@ If you use FHKAN in your research, please cite our paper:
     journal = {Preprint},
     year    = {2026}
 }
+```
