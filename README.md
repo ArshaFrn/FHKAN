@@ -45,8 +45,8 @@ If you use FHKAN in your research, please cite our paper:
 @article{farnoush2026fhkan,
     title   = {FHKAN: Fractional Hermite Kolmogorov-Arnold Networks
                for Data-Driven and Physics-Informed Learning},
-    author={Arsha Farnoush and Amirhossein Sadr and Aida Pakniyat and Dara Rahmati and Saeid Gorgin and Kourosh Parand},
-    journal = {Preprint},
+    author={Farnoush, Arsha and Sadr, Amirhossein and Pakniyat, Aida and Rahmati, Dara and Gorgin, Saeid and Parand, Kourosh},
+    journal = {arXiv preprint arXiv:2610.25148},
     year    = {2026}
 }
 ```
