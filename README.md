@@ -42,11 +42,10 @@ If you find a bug, have a feature request, or would like to improve the implemen
 If you use FHKAN in your research, please cite our paper:
 
 ```bibtex
-@article{sadr2026fhkan,
+@article{farnoush2026fhkan,
     title   = {FHKAN: Fractional Hermite Kolmogorov-Arnold Networks
                for Data-Driven and Physics-Informed Learning},
-    author  = {Sadr, Amirhossein and Farnoush, Arsha and Pakniyat, Aida
-               and Rahmati, Dara and Parand, Kourosh and Gorgin, Saeid},
+    author={Arsha Farnoush and Amirhossein Sadr and Aida Pakniyat and Dara Rahmati and Saeid Gorgin and Kourosh Parand},
     journal = {Preprint},
     year    = {2026}
 }
